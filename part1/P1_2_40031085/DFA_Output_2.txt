@@ -1,0 +1,20 @@
+0 1 
+tohi tohiq0 tohiq0q1 tohiq0q1q2 tohiq0q2 tohiq1 tohiq1q2 tohiq2 
+tohiq0
+tohiq0 tohiq1 tohiq0q1 tohiq0q2 tohiq1q2 tohiq0q1q2 
+tohi 0 tohi
+tohi 1 tohi
+tohiq0 0 tohiq0q1q2
+tohiq0 1 tohiq1q2
+tohiq0q1 0 tohiq0q1q2
+tohiq0q1 1 tohiq1q2
+tohiq0q1q2 0 tohiq0q1q2
+tohiq0q1q2 1 tohiq1q2
+tohiq0q2 0 tohiq0q1q2
+tohiq0q2 1 tohiq1q2
+tohiq1 0 tohiq0q1q2
+tohiq1 1 tohiq1q2
+tohiq1q2 0 tohiq0q1q2
+tohiq1q2 1 tohiq1q2
+tohiq2 0 tohiq2
+tohiq2 1 tohiq1
